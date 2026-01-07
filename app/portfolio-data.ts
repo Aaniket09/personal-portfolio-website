@@ -64,7 +64,7 @@ export const portfolioData = {
   experience: [
     {
       id: 1,
-      year: "Aug 2023 - Dec 2025",
+      year: "Aug 2025 - Dec 2025",
       title: "Cybersecurity Analyst Intern",
       company: "Log (N) Pacific",
       desc: "Spearheaded endpoint hardening (DISA STIG) using PowerShell, reducing organizational risk by 20%. Engineered high-fidelity KQL detections for Azure Sentinel, automating incident response workflows and validating cloud defense strategies against live attack simulations.",
