@@ -118,7 +118,7 @@ export const portfolioData = {
     desc: "End-to-end incident response pipeline. Splunk alerts trigger n8n workflows for instant triage.",
     tags: ["Splunk", "n8n", "SOAR", "Mitre ATT&CK"],
     link: "",
-    github: "",
+    github: "https://github.com/Aaniket09/enterprise-security-lab",
     size: "col-span-1", 
     gradient: "from-emerald-900 to-slate-900"
   },
